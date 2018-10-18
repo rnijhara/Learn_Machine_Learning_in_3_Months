@@ -9,9 +9,12 @@ https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xV
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
-## Week 3 Probability
+## Week 3 Statistics
+https://in.udacity.com/course/intro-to-descriptive-statistics--ud827-india
+https://in.udacity.com/course/intro-to-inferential-statistics--ud201
+## Week 4 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
-## Week 4 Algorithms
+## Week 5 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
 # Month 2
@@ -25,8 +28,9 @@ https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
 ## Week 2 
-Intro to ML (Udacity)
+Intro to ML
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
+https://www.coursera.org/learn/machine-learning
 
 ## Week 3-4
 ML Project Ideas
